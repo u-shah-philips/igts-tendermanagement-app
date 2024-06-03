@@ -102,37 +102,6 @@ The RFP Tool Q&A application allows users to interact with an Amazon Bedrock Age
    - Click the "Go" button to send the question to the agent.
    - View the response, summarized references, and clickable citations.
 
-## GitHub Setup
-
-### Initialize and Push to GitHub
-
-1. **Initialize a Git repository (if not already done)**:
-   ```sh
-   git init
-   ```
-
-2. **Add all your project files to the repository**:
-   ```sh
-   git add .
-   ```
-
-3. **Commit your changes**:
-   ```sh
-   git commit -m "Initial commit with README and project files"
-   ```
-
-4. **Create a new repository on GitHub**:
-   - Go to GitHub and create a new repository.
-
-5. **Add the remote repository URL**:
-   ```sh
-   git remote add origin https://github.com/yourusername/rfp-tool-qa.git
-   ```
-
-6. **Push your changes to GitHub**:
-   ```sh
-   git push -u origin master
-   ```
 
 ## License
 
